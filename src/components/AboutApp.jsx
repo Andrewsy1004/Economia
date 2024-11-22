@@ -37,7 +37,7 @@ export const AboutApp = () => {
                 <div className="grid md:grid-cols-2 gap-8 items-center">
                     <motion.div variants={itemVariants}>
                         <motion.img
-                            src="/src/assets/Aprende_ecoonomia.jpeg"
+                            src="/Aprende_ecoonomia.jpeg"
                             width={500}
                             height={500}
                             alt="Aplicación de Aprendizaje Económico"

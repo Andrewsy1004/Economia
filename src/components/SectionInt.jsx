@@ -95,7 +95,7 @@ export const SectionInt = () => {
                         className="hidden md:block"
                     >
                         <motion.img
-                            src="/src/assets/EconomiaInt.jpg"
+                            src="/EconomiaInt.jpg"
                             alt="Explorando conceptos económicos con claridad"
                             width={500}
                             height={500}
