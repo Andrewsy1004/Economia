@@ -15,7 +15,6 @@ Una plataforma educativa que transforma conceptos económicos en experiencias de
 
 - **React** - 📦 Framework para interfaces de usuario.
 - **Tailwind CSS** - 🎨 Framework de diseño para estilos rápidos y personalizables.
-- **React Router** - 🔀 Navegación dinámica y fácil entre páginas.
 - **Framer Motion** - 🎞️ Animaciones fluidas y modernas.
 
 ---
